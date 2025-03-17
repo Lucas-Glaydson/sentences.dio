@@ -1,0 +1,9 @@
+O céu está azul e o dia está lindo.
+Eu gosto de programar em Python e JavaScript.
+Será que vai chover amanhã?
+A inteligência artificial está revolucionando o mundo.
+Aprender uma nova habilidade pode ser desafiador, mas vale a pena.
+O cachorro correu atrás da bola no parque.
+A tecnologia está avançando rapidamente.
+Como posso melhorar minhas habilidades em análise de texto?
+Este é um exemplo de entrada para análise de linguagem natural.
